@@ -165,6 +165,7 @@ def show_venue(venue_id):
         "website": venue.website_link,
         "facebook_link": venue.facebook_link,
         "seeking_talent": venue.seeking_talent,
+        "seeking_description": venue.seeking_description,
         "image_link": venue.image_link,
         "past_shows": past_shows,
         "upcoming_shows": upcoming_shows,
